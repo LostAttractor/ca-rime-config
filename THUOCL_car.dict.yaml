@@ -267,7 +267,7 @@ sort: by_weight
 四轮碟刹	si lun die sha	4288
 中盖	zhong gai	4256
 铅块	qian kuai	4255
-最小离地间隙	zui xiao li de jian xi	4239
+最小离地间隙	zui xiao li di jian xi	4239
 一汽奥迪	yi qi ao di	4212
 风骏	feng jun	4207
 全球鹰	quan qiu ying	4149
@@ -275,7 +275,7 @@ sort: by_weight
 小排量轿车	xiao pai liang jiao che	4086
 燃烧过程	ran shao guo cheng	3923
 亚星客车	ya xing ke che	3870
-江南奥拓	jiang nan ao ta	3843
+江南奥拓	jiang nan ao tuo	3843
 长丰猎豹	zhang feng lie bao	3792
 车载电脑	che zai dian nao	3782
 保险杆	bao xian gan	3732
@@ -311,7 +311,7 @@ sort: by_weight
 汽车影音	qi che ying yin	2951
 组合表	zu he biao	2908
 双面胶带	shuang mian jiao dai	2828
-新大地	xin da de	2815
+新大地	xin da di	2815
 汽车零部件有限公司	qi che ling bu jian you xian gong si	2765
 预紧式安全带	yu jin shi an quan dai	2734
 车门把手	che men ba shou	2665
@@ -971,7 +971,7 @@ sort: by_weight
 郑州威佳专营店	zheng zhou wei jia zhuan ying dian	88
 红喜力	hong xi li	88
 胎侧胶	tai ce jiao	88
-负极接地	fu ji jie de	88
+负极接地	fu ji jie di	88
 浇注速度	jiao zhu su du	87
 软连接牵引	ruan lian jie qian yin	87
 置换补贴	zhi huan bu tie	87
@@ -1082,7 +1082,7 @@ sort: by_weight
 悬挂衬套	xuan gua chen tao	51
 视维视频会议系统	shi wei shi pin hui yi xi tong	51
 拼装台	pin zhuang tai	51
-道奇拓远者	dao qi ta yuan zhe	51
+道奇拓远者	dao qi tuo yuan zhe	51
 电瓶盖	dian ping gai	50
 欧迪玛	ou di ma	50
 东风牌小轿车	dong feng pai xiao jiao che	50
@@ -1257,7 +1257,7 @@ sort: by_weight
 有效热效率	you xiao re xiao lv	21
 燃油蒸发排放控制	ran you zheng fa pai fang kong zhi	21
 油底壳垫	you di ke dian	21
-印地车赛	yin de che sai	21
+印地车赛	yin di che sai	21
 右后叶子板	you hou ye zi ban	20
 乙酸丁酸纤维素	yi suan ding suan xian wei su	20
 前分泵	qian fen beng	20
@@ -1465,7 +1465,7 @@ sort: by_weight
 液压式离合器系统	ye ya shi li he qi xi tong	6
 汽车启动电源	qi che qi dong dian yuan	6
 变速箱第一轴	bian su xiang di yi zhou	6
-汽车最小离地间隙	qi che zui xiao li de jian xi	6
+汽车最小离地间隙	qi che zui xiao li di jian xi	6
 六角法兰面螺母	liu jiao fa lan mian luo mu	6
 从动圆柱齿	cong dong yuan zhu chi	6
 换挡锁止电磁阀	huan dang suo zhi dian ci fa	6
