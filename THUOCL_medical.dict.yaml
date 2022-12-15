@@ -1071,7 +1071,7 @@ sort: by_weight
 硫化氢	liu hua qing	1243
 脑干	nao gan	1242
 特立尼达和多巴哥	te li ni da he duo ba ge	1239
-咳痰	ke tan	1236
+咳痰	hai tan	1236
 静脉注射	jing mai zhu she	1230
 血红蛋白	xue hong dan bai	1225
 五官科	wu guan ke	1222
@@ -2140,7 +2140,7 @@ sort: by_weight
 基因缺陷	ji yin que xian	394
 苯胺	ben an	394
 头型	tou xing	394
-润肺止咳	run fei zhi ke	394
+润肺止咳	run fei zhi hai	394
 耳鼻咽喉头颈外科	er bi yan hou tou jing wai ke	393
 牛黄	niu huang	393
 华盖	hua gai	393
@@ -2654,7 +2654,7 @@ sort: by_weight
 益母草	yi mu cao	258
 艾滋病疫苗	ai zi bing yi miao	258
 红药水	hong yao shui	258
-样地	yang di	257
+样地	yang de	257
 芥子	jie zi	257
 头皮屑	tou pi xie	257
 慢性腹泻	man xing fu xie	256
@@ -3775,7 +3775,7 @@ sort: by_weight
 乙肝免疫球蛋白	yi gan mian yi qiu dan bai	122
 钩端螺旋体病	gou duan luo xuan ti bing	122
 血小板减少性紫癜	xue xiao ban jian shao xing zi dian	122
-地高辛	di gao xin	122
+地高辛	de gao xin	122
 颅内压	lu nei ya	122
 他达拉非	ta da la fei	122
 活疫苗	huo yi miao	122
@@ -4085,7 +4085,7 @@ sort: by_weight
 急性肝功能衰竭	ji xing gan gong neng shuai jie	102
 生物转化	sheng wu zhuan hua	102
 甲状腺炎	jia zhuang xian yan	102
-镇咳药	zhen ke yao	102
+镇咳药	zhen hai yao	102
 透析液	tou xi ye	102
 单交	dan jiao	102
 猪苓	zhu ling	102
@@ -4195,7 +4195,7 @@ sort: by_weight
 千金要方	qian jin yao fang	95
 无脑儿	wu nao er	95
 参考点	can kao dian	95
-西地兰	xi di lan	95
+西地兰	xi de lan	95
 莲子心	lian zi xin	95
 垂耳	chui er	95
 渗出液	shen chu ye	95
@@ -4992,7 +4992,7 @@ sort: by_weight
 血沉	xue chen	63
 生大黄	sheng dai huang	63
 细胞质	xi bao zhi	63
-地西泮	di xi pan	63
+地西泮	de xi pan	63
 剖腹探查术	pou fu tan cha shu	63
 门静脉高压	men jing mai gao ya	63
 蜜炼川贝枇杷膏	mi lian chuan bei pi pa gao	63
@@ -5163,7 +5163,7 @@ sort: by_weight
 奥利司他	ao li si ta	59
 止痛膏	zhi tong gao	59
 云南白药酊	yun nan bai yao ding	59
-枸橼酸西地那非	ju yuan suan xi di na fei	58
+枸橼酸西地那非	ju yuan suan xi de na fei	58
 粉针剂	fen zhen ji	58
 脓疱疮	nong pao chuang	58
 对因治疗	dui yin zhi liao	58
@@ -5330,7 +5330,7 @@ sort: by_weight
 距骨	ju gu	54
 偶合反应	ou he fan ying	54
 薏米仁	yi mi ren	54
-嗅觉丧失	xiu jue sang shi	54
+嗅觉丧失	xiu jue min rui	54
 树突细胞	shu tu xi bao	54
 手斧	shou fu	54
 曾其毅	ceng qi yi	54
@@ -5342,7 +5342,7 @@ sort: by_weight
 破骨细胞	po gu xi bao	54
 细菌内毒素	xi jun nei du su	54
 继发性青光眼	ji fa xing qing guang yan	54
-地肤子	di fu zi	54
+地肤子	de fu zi	54
 浓缩丸	nong suo wan	54
 大汗腺	da han xian	54
 肩峰	jian feng	53
@@ -5644,7 +5644,7 @@ sort: by_weight
 主动脉缩窄	zhu dong mai suo zhai	47
 氨中毒	an zhong du	47
 子宫发育不良	zi gong fa yu bu liang	47
-米诺地尔	mi nuo di er	47
+米诺地尔	mi nuo de er	47
 黑素细胞	hei su xi bao	47
 蒙脱石散	meng tuo shi san	47
 头孢拉定胶囊	tou bao la ding jiao nang	47
@@ -5850,7 +5850,7 @@ sort: by_weight
 羧甲基纤维素钠	suo jia ji xian wei su na	42
 金霉素眼膏	jin mei su yan gao	42
 玻璃体积血	bo li ti ji xue	42
-地高辛片	di gao xin pian	42
+地高辛片	de gao xin pian	42
 金匮肾气丸	jin kui shen qi wan	42
 胶原酶	jiao yuan mei	42
 大静脉	da jing mai	42
@@ -5867,7 +5867,7 @@ sort: by_weight
 素馨花	su xin hua	42
 选择反应时	xuan ze fan ying shi	42
 消心痛	xiao xin tong	42
-联邦止咳露	lian bang zhi ke lu	42
+联邦止咳露	lian bang zhi hai lu	42
 输卵管妊娠	shu luan guan ren shen	42
 嗜酸乳杆菌	shi suan ru gan jun	42
 抗血清	kang xue qing	42
@@ -6010,7 +6010,7 @@ sort: by_weight
 小静脉	xiao jing mai	40
 慢性喉炎	man xing hou yan	39
 眼内炎	yan nei yan	39
-地奥心血康胶囊	di ao xin xue kang jiao nang	39
+地奥心血康胶囊	de ao xin xue kang jiao nang	39
 非淋菌性尿道炎	fei lin jun xing niao dao yan	39
 聚合酶链反应	ju he mei lian fan ying	39
 阿卡波糖	a ka bo tang	39
@@ -6089,7 +6089,7 @@ sort: by_weight
 玻璃体出血	bo li ti chu xue	38
 生物医学模式	sheng wu yi xue mo shi	38
 背阔肌	bei kuo ji	38
-地奥心血康	di ao xin xue kang	38
+地奥心血康	de ao xin xue kang	38
 醒脑静注射液	xing nao jing zhu she ye	38
 主动脉瓣狭窄	zhu dong mai ban xia zhai	38
 痹证	bi zheng	38
@@ -6110,7 +6110,7 @@ sort: by_weight
 浅深	qian shen	38
 氨基葡萄糖	an ji pu tao tang	38
 避孕器	bi yun qi	38
-注射用夫西地酸钠	zhu she yong fu xi di suan na	38
+注射用夫西地酸钠	zhu she yong fu xi de suan na	38
 头孢克肟	tou bao ke wo	38
 造影术	zao ying shu	38
 革兰氏阳性菌	ge lan shi yang xing jun	38
@@ -6271,7 +6271,7 @@ sort: by_weight
 单基因病	dan ji yin bing	35
 慢波睡眠	man bo shui mian	35
 弱视训练	ruo shi xun lian	35
-咳特灵胶囊	ke te ling jiao nang	35
+咳特灵胶囊	hai te ling jiao nang	35
 出血时间	chu xue shi jian	35
 藿香正气软胶囊	huo xiang zheng qi ruan jiao nang	35
 冷冻剂	leng dong ji	35
@@ -6337,7 +6337,7 @@ sort: by_weight
 脂多糖	zhi duo tang	34
 肺外结核	fei wai jie he	34
 噪声聋	zao sheng long	34
-伐地那非	fa di na fei	34
+伐地那非	fa de na fei	34
 刺五加注射液	ci wu jia zhu she ye	34
 猪链球菌病	zhu lian qiu jun bing	34
 单心室	dan xin shi	34
@@ -6650,7 +6650,7 @@ sort: by_weight
 分类群	fen lei qun	30
 血管紧张素转化酶	xue guan jin zhang su zhuan hua mei	30
 妊娠水肿	ren shen shui zhong	30
-地仓	di cang	30
+地仓	de cang	30
 肩关节脱位	jian guan jie tuo wei	30
 流行性脑炎	liu xing xing nao yan	30
 拜新同	bai xin tong	30
@@ -6755,7 +6755,7 @@ sort: by_weight
 璇玑	xuan ji	28
 尺动脉	chi dong mai	28
 益气安神	yi qi an shen	28
-地西泮片	di xi pan pian	28
+地西泮片	de xi pan pian	28
 正红花油	zheng hong hua you	28
 慢性化脓性中耳炎	man xing hua nong xing zhong er yan	28
 格列吡嗪	ge lie bi qin	28
@@ -7114,7 +7114,7 @@ sort: by_weight
 尿素软膏	niao su ruan gao	25
 先天性愚型	xian tian xing yu xing	25
 卷须	juan xu	25
-治咳川贝枇杷露	zhi ke chuan bei pi pa lu	25
+治咳川贝枇杷露	zhi hai chuan bei pi pa lu	25
 磺胺药	huang an yao	25
 倒位	dao wei	25
 优氯净	you lv jing	25
@@ -7364,7 +7364,7 @@ sort: by_weight
 京万红	jing wan hong	22
 局部肥胖	ju bu fei pang	22
 外胚层发育不良	wai pei ceng fa yu bu liang	22
-咳必清	ke bi qing	22
+咳必清	hai bi qing	22
 甲型副伤寒	jia xing fu shang han	22
 诸病源候论	zhu bing yuan hou lun	22
 咽结膜热	yan jie mo re	22
@@ -7393,7 +7393,7 @@ sort: by_weight
 洋地黄中毒	yang di huang zhong du	22
 生脉散	sheng mai san	22
 外分泌	wai fen mi	22
-地芬诺酯	di fen nuo zhi	22
+地芬诺酯	de fen nuo zhi	22
 右归丸	you gui wan	22
 眼眶肿瘤	yan kuang zhong liu	22
 肾静脉	shen jing mai	22
@@ -7423,7 +7423,7 @@ sort: by_weight
 性病性淋巴肉芽肿	xing bing xing lin ba rou ya zhong	22
 胃大部切除术	wei da bu qie chu shu	22
 急性气管支气管炎	ji xing qi guan zhi qi guan yan	22
-霰粒肿	xian li zhong	22
+霰粒肿	san li zhong	22
 根压	gen ya	22
 卵泡刺激素	luan pao ci ji su	22
 干酵母片	gan jiao mu pian	22
@@ -7606,7 +7606,7 @@ sort: by_weight
 第四脑室	di si nao shi	20
 氢氧化镁	qing yang hua mei	20
 传递函数	chuan di han shu	20
-南沙参	nan sha shen	20
+南沙参	nan sha can	20
 硒蛋白	xi dan bai	20
 脱敏牙膏	tuo min ya gao	20
 中毒性肝病	zhong du xing gan bing	20
@@ -7717,7 +7717,7 @@ sort: by_weight
 壮腰健肾丸	zhuang yao jian shen wan	19
 葡萄糖醛酸	pu tao tang quan suan	19
 托叶	tuo ye	19
-复方地芬诺酯片	fu fang di fen nuo zhi pian	19
+复方地芬诺酯片	fu fang de fen nuo zhi pian	19
 氟罗沙星	fu luo sha xing	19
 支托	zhi tuo	19
 鬼针草	gui zhen cao	19
@@ -7937,7 +7937,7 @@ sort: by_weight
 辛伐他汀片	xin fa ta ting pian	18
 中肾	zhong shen	18
 自身免疫性溶血性贫血	zi shen mian yi xing rong xue xing pin xue	18
-肺力咳胶囊	fei li ke jiao nang	18
+肺力咳胶囊	fei li hai jiao nang	18
 新生血管性青光眼	xin sheng xue guan xing qing guang yan	18
 消渴降糖胶囊	xiao ke jiang tang jiao nang	18
 天麻丸	tian ma wan	18
@@ -8109,7 +8109,7 @@ sort: by_weight
 京制牛黄解毒片	jing zhi niu huang jie du pian	17
 喉爽	hou shuang	17
 桑椹子	sang shen zi	17
-止咳胶囊	zhi ke jiao nang	17
+止咳胶囊	zhi hai jiao nang	17
 生物心理学	sheng wu xin li xue	17
 鼓膜充血	gu mo chong xue	17
 血氨	xue an	17
@@ -8391,7 +8391,7 @@ sort: by_weight
 硫柳汞	liu liu gong	15
 茯苓多糖	fu ling duo tang	15
 细菌性阴道病	xi jun xing yin dao bing	15
-小儿止咳糖浆	xiao er zhi ke tang jiang	15
+小儿止咳糖浆	xiao er zhi hai tang jiang	15
 止血剂	zhi xue ji	15
 器械体操	qi xie ti cao	15
 熊果酸	xiong guo suan	15
@@ -8654,7 +8654,7 @@ sort: by_weight
 鲜竹沥	xian zhu li	14
 苏梗	su geng	14
 胃溃疡出血	wei kui yang chu xue	14
-痰咳净	tan ke jing	14
+痰咳净	tan hai jing	14
 硫酸阿托品	liu suan a tuo pin	14
 胸膜粘连	xiong mo zhan lian	14
 特异性抗原	te yi xing kang yuan	14
@@ -8914,7 +8914,7 @@ sort: by_weight
 盐酸可乐定	yan suan ke le ding	12
 警戒色	jing jie se	12
 儿童口腔医学	er tong kou qiang yi xue	12
-蒲地蓝消炎口服液	pu di lan xiao yan kou fu ye	12
+蒲地蓝消炎口服液	pu de lan xiao yan kou fu ye	12
 背部痉挛	bei bu jing luan	12
 直肠损伤	zhi chang sun shang	12
 共同运动	gong tong yun dong	12
@@ -9103,7 +9103,7 @@ sort: by_weight
 承泣	cheng qi	12
 慢性间质性肾炎	man xing jian zhi xing shen yan	12
 硬脑膜动静脉瘘	ying nao mo dong jing mai lou	12
-蒲地蓝消炎片	pu di lan xiao yan pian	12
+蒲地蓝消炎片	pu de lan xiao yan pian	12
 流行性出血性结膜炎	liu xing xing chu xue xing jie mo yan	12
 慢性闭角型青光眼	man xing bi jiao xing qing guang yan	12
 咪康唑	mi kang zuo	12
@@ -9407,7 +9407,7 @@ sort: by_weight
 坐骨腰痛丸	zuo gu yao tong wan	10
 疗癣卡西甫散	liao xuan ka xi fu san	10
 肾血流量	shen xue liu liang	10
-川贝止咳露	chuan bei zhi ke lu	10
+川贝止咳露	chuan bei zhi hai lu	10
 尿布皮炎	niao bu pi yan	10
 视神经疾病	shi shen jing ji bing	10
 二苯甲酮	er ben jia tong	10
@@ -9560,7 +9560,7 @@ sort: by_weight
 植被型	zhi bei xing	10
 氟康唑注射液	fu kang zuo zhu she ye	10
 颈动脉体瘤	jing dong mai ti liu	10
-咳特灵	ke te ling	10
+咳特灵	hai te ling	10
 草豆蔻	cao dou kou	10
 龙齿	long chi	10
 板兰根冲剂	ban lan gen chong ji	10
@@ -9668,7 +9668,7 @@ sort: by_weight
 滋肾育胎丸	zi shen yu tai wan	10
 肠清茶	chang qing cha	10
 硬化性胆管炎	ying hua xing dan guan yan	10
-头孢地嗪	tou bao di qin	10
+头孢地嗪	tou bao de qin	10
 尿囊	niao nang	10
 虚汗停颗粒	xu han ting ke li	10
 头孢克洛胶囊	tou bao ke luo jiao nang	10
@@ -9679,7 +9679,7 @@ sort: by_weight
 食母生片	si mu sheng pian	10
 蝇蛆病	ying qu bing	10
 蛇胆川贝散	she dan chuan bei san	10
-复方地芬诺酯	fu fang di fen nuo zhi	10
+复方地芬诺酯	fu fang de fen nuo zhi	10
 分布类型	fen bu lei xing	10
 锁骨中线	suo gu zhong xian	10
 氨酚伪麻片	an fen wei ma pian	10
@@ -9816,12 +9816,12 @@ sort: by_weight
 阴脉之海	yin mai zhi hai	9
 食管气管瘘	shi guan qi guan lou	9
 人工阴茎	ren gong yin jing	9
-消咳宁片	xiao ke ning pian	9
+消咳宁片	xiao hai ning pian	9
 脾虚湿困	pi xu shi kun	9
 注射用细辛脑	zhu she yong xi xin nao	9
 羰基镍	tang ji nie	9
 复方鼻炎膏	fu fang bi yan gao	9
-甲地孕酮	jia di yun tong	9
+甲地孕酮	jia de yun tong	9
 降脂灵胶囊	jiang zhi ling jiao nang	9
 电穿孔	dian chuan kong	9
 输尿管畸形	shu niao guan ji xing	9
@@ -9848,7 +9848,7 @@ sort: by_weight
 醋酸铅	cu suan qian	9
 同工酶	tong gong mei	9
 春季结膜炎	chun ji jie mo yan	9
-肺咳	fei ke	9
+肺咳	fei hai	9
 透骨香	tou gu xiang	9
 同仁乌鸡白凤丸	tong ren wu ji bai feng wan	9
 舒巴坦钠	shu ba tan na	9
@@ -9884,7 +9884,7 @@ sort: by_weight
 头孢匹罗	tou bao pi luo	9
 胆道蛔虫病	dan dao hui chong bing	9
 中医护理学	zhong yi hu li xue	9
-卡维地洛	ka wei di luo	9
+卡维地洛	ka wei de luo	9
 气血双补丸	qi xue shuang bu wan	9
 支持细胞	zhi chi xi bao	9
 输卵管通液术	shu luan guan tong ye shu	9
@@ -9930,7 +9930,7 @@ sort: by_weight
 吞饮	tun yin	9
 免疫成功率	mian yi cheng gong lv	9
 风寒感冒颗粒	feng han gan mao ke li	9
-地尔硫卓	di er liu zhuo	9
+地尔硫卓	de er liu zhuo	9
 食管造影	shi guan zao ying	9
 乳房再造术	ru fang zai zao shu	9
 局部作用	ju bu zuo yong	9
@@ -9952,7 +9952,7 @@ sort: by_weight
 硝苯地平片	xiao ben di ping pian	9
 烟草花叶病毒	yan cao hua ye bing du	9
 边缘运动	bian yuan yun dong	9
-地西泮注射液	di xi pan zhu she ye	9
+地西泮注射液	de xi pan zhu she ye	9
 潮汐周期	chao xi zhou qi	9
 脑活素	nao huo su	9
 内科护理学	nei ke hu li xue	9
@@ -10047,7 +10047,7 @@ sort: by_weight
 缺血性挛缩	que xue xing luan suo	8
 许浚	xu jun	8
 不完全流产	bu wan quan liu chan	8
-止咳片	zhi ke pian	8
+止咳片	zhi hai pian	8
 便闭	bian bi	8
 甲钴胺	jia gu an	8
 多潜能性	duo qian neng xing	8
@@ -10168,10 +10168,10 @@ sort: by_weight
 阿柔比星	a rou bi xing	8
 肝俞穴	gan yu xue	8
 同步生长	tong bu sheng zhang	8
-感冒止咳颗粒	gan mao zhi ke ke li	8
+感冒止咳颗粒	gan mao zhi hai ke li	8
 放射性白内障	fang she xing bai nei zhang	8
 板蓝根片	ban lan gen pian	8
-前列地尔注射液	qian lie di er zhu she ye	8
+前列地尔注射液	qian lie de er zhu she ye	8
 心源性水肿	xin yuan xing shui zhong	8
 亮甲	liang jia	8
 治伤软膏	zhi shang ruan gao	8
@@ -10219,7 +10219,7 @@ sort: by_weight
 止血散	zhi xue san	8
 基因拷贝	ji yin kao bei	8
 磺苄西林钠	huang bian xi lin na	8
-金贝痰咳清颗粒	jin bei tan ke qing ke li	8
+金贝痰咳清颗粒	jin bei tan hai qing ke li	8
 四缝	si feng	8
 淋巴肉瘤	lin ba rou liu	8
 补肾固齿	bu shen gu chi	8
@@ -10245,7 +10245,7 @@ sort: by_weight
 奥扎格雷钠	ao zha ge lei na	8
 视网膜萎缩	shi wang mo wei suo	8
 瑞芬太尼	rui fen tai ni	8
-麻杏止咳片	ma xing zhi ke pian	8
+麻杏止咳片	ma xing zhi hai pian	8
 克霉唑软膏	ke mei zuo ruan gao	8
 随意肌	sui yi ji	8
 京万红软膏	jing wan hong ruan gao	8
@@ -10779,7 +10779,7 @@ sort: by_weight
 氢溴酸右美沙芬片	qing xiu suan you mei sha fen pian	7
 慢性食管炎	man xing shi guan yan	7
 丙氨酸转氨酶	bing an suan zhuan an mei	7
-西地碘片	xi di dian pian	7
+西地碘片	xi de dian pian	7
 跗跖	fu zhi	7
 房间隔缺损封堵术	fang jian ge que sun feng du shu	7
 麝香抗栓丸	she xiang kang shuan wan	7
@@ -10800,7 +10800,7 @@ sort: by_weight
 可溶性止血纱布	ke rong xing zhi xue sha bu	7
 时间知觉	shi jian zhi jue	7
 超氧化物岐化酶	chao yang hua wu qi hua mei	7
-杏仁止咳糖浆	xing ren zhi ke tang jiang	7
+杏仁止咳糖浆	xing ren zhi hai tang jiang	7
 前庭大腺	qian ting da xian	7
 鼓膜修补术	gu mo xiu bu shu	7
 无菌培养	wu jun pei yang	7
@@ -10858,13 +10858,13 @@ sort: by_weight
 联苯双酯	lian ben shuang zhi	6
 内韧带	nei ren dai	6
 黑素体	hei su ti	6
-布地奈德	bu di nai de	6
+布地奈德	bu de nai de	6
 梁丘	liang qiu	6
 继代培养	ji dai pei yang	6
 清浊益肾胶囊	qing zhuo yi shen jiao nang	6
 人狂犬病免疫球蛋白	ren kuang quan bing mian yi qiu dan bai	6
 乌金口服液	wu jin kou fu ye	6
-小儿化痰止咳颗粒	xiao er hua tan zhi ke ke li	6
+小儿化痰止咳颗粒	xiao er hua tan zhi hai ke li	6
 木聚糖酶	mu ju tang mei	6
 白内障囊内摘除术	bai nei zhang nang nei zhai chu shu	6
 马蹄肾	ma ti shen	6
@@ -10948,8 +10948,8 @@ sort: by_weight
 卟啉病	bu lin bing	6
 葡萄糖苷	pu tao tang gan	6
 扩散系数	kuo san xi shu	6
-头孢地尼	tou bao di ni	6
-麻杏止咳糖浆	ma xing zhi ke tang jiang	6
+头孢地尼	tou bao de ni	6
+麻杏止咳糖浆	ma xing zhi hai tang jiang	6
 肺动脉干	fei dong mai gan	6
 盐酸苯海拉明	yan suan ben hai la ming	6
 筋缩	jin suo	6
@@ -11039,7 +11039,7 @@ sort: by_weight
 川芎茶调散	chuan qiong cha diao san	6
 色觉检查	se jue jian cha	6
 颊车	jia che	6
-坎地沙坦酯片	kan di sha tan zhi pian	6
+坎地沙坦酯片	kan de sha tan zhi pian	6
 小儿咽扁颗粒	xiao er yan bian ke li	6
 结肠切除术	jie chang qie chu shu	6
 郁病	yu bing	6
@@ -11167,7 +11167,7 @@ sort: by_weight
 主要组织相容性复合体	zhu yao zu zhi xiang rong xing fu he ti	6
 雷贝拉唑	lei bei la zuo	6
 静纤毛	jing xian mao	6
-天一止咳糖浆	tian yi zhi ke tang jiang	6
+天一止咳糖浆	tian yi zhi hai tang jiang	6
 复方消化酶	fu fang xiao hua mei	6
 抗原转换	kang yuan zhuan huan	6
 莫树锦	mo shu jin	6
@@ -11189,10 +11189,10 @@ sort: by_weight
 膀胱俞	pang guang yu	6
 祖卡木颗粒	zu ka mu ke li	6
 脾脏损伤	pi zang sun shang	6
-消炎止咳片	xiao yan zhi ke pian	6
+消炎止咳片	xiao yan zhi hai pian	6
 洗耳球	xi er qiu	6
 物理治疗学	wu li zhi liao xue	6
-参地益肾口服液	can di yi shen kou fu ye	6
+参地益肾口服液	can de yi shen kou fu ye	6
 血管网状细胞瘤	xue guan wang zhuang xi bao liu	6
 明胶海绵	ming jiao hai mian	6
 盐酸哌甲酯	yan suan pai jia zhi	6
@@ -11220,7 +11220,7 @@ sort: by_weight
 红霉素片	hong mei su pian	6
 腭扁桃体	e bian tao ti	6
 晶珠本草	jing zhu ben cao	6
-克咳敏	ke ke min	6
+克咳敏	ke hai min	6
 复方血栓通胶囊	fu fang xue shuan tong jiao nang	6
 益肝解毒茶	yi gan jie du cha	6
 益智康脑丸	yi zhi kang nao wan	6
@@ -11265,8 +11265,8 @@ sort: by_weight
 布氏田鼠	bu shi tian shu	6
 血塞通注射液	xue sai tong zhu she ye	6
 冷伤	leng shang	6
-头孢地尼分散片	tou bao di ni fen san pian	6
-西地碘含片	xi di dian han pian	6
+头孢地尼分散片	tou bao de ni fen san pian	6
+西地碘含片	xi de dian han pian	6
 宫血宁胶囊	gong xue ning jiao nang	6
 五味消毒饮	wu wei xiao du yin	6
 椎管内肿瘤切除术	chui guan nei zhong liu qie chu shu	6
@@ -11324,7 +11324,7 @@ sort: by_weight
 乙型肝炎免疫球蛋白	yi xing gan yan mian yi qiu dan bai	6
 脑心舒口服液	nao xin shu kou fu ye	6
 光气中毒	guang qi zhong du	6
-地不容	di bu rong	6
+地不容	de bu rong	6
 麝香追风膏	she xiang zhui feng gao	6
 神经性梅毒	shen jing xing mei du	6
 卵裂	luan lie	6
@@ -11385,7 +11385,7 @@ sort: by_weight
 先天性再生障碍性贫血	xian tian xing zai sheng zhang ai xing pin xue	6
 火把花根片	huo ba hua gen pian	6
 四缝穴	si feng xue	6
-地奥司明片	di ao si ming pian	6
+地奥司明片	de ao si ming pian	6
 大黄酚	dai huang fen	6
 生精胶囊	sheng jing jiao nang	6
 连翘败毒丸	lian qiao bai du wan	6
@@ -11408,7 +11408,7 @@ sort: by_weight
 解剖生理学	jie pou sheng li xue	6
 小脑扁桃体下疝畸形	xiao nao bian tao ti xia shan ji xing	6
 亚族	ya zu	5
-肺力咳合剂	fei li ke he ji	5
+肺力咳合剂	fei li hai he ji	5
 二溴氯丙烷	er xiu lv bing wan	5
 盐酸金霉素	yan suan jin mei su	5
 咪唑斯汀	mi zuo si ting	5
@@ -11434,7 +11434,7 @@ sort: by_weight
 尼美舒利胶囊	ni mei shu li jiao nang	5
 桑菊感冒颗粒	sang ju gan mao ke li	5
 黄芪桂枝五物汤	huang qi gui zhi wu wu tang	5
-地诺前列素	di nuo qian lie su	5
+地诺前列素	de nuo qian lie su	5
 先天性肺囊肿	xian tian xing fei nang zhong	5
 儿泻康贴膜	er xie kang tie mo	5
 虫草清肺胶囊	chong cao qing fei jiao nang	5
@@ -11525,7 +11525,7 @@ sort: by_weight
 同仁大活络丸	tong ren da huo luo wan	5
 幽门痉挛	you men jing luan	5
 氯丙咪嗪	lv bing mi qin	5
-咳特灵片	ke te ling pian	5
+咳特灵片	hai te ling pian	5
 泛影葡胺	fan ying pu an	5
 结肠溃疡	jie chang kui yang	5
 恩拉霉素	en la mei su	5
@@ -11672,7 +11672,7 @@ sort: by_weight
 输精管复通术	shu jing guan fu tong shu	5
 钩骨	gou gu	5
 仙乐雄胶囊	xian le xiong jiao nang	5
-咳欣康片	ke xin kang pian	5
+咳欣康片	hai xin kang pian	5
 多聚甲醛	duo ju jia quan	5
 周锡年	zhou xi nian	5
 注射用磺苄西林钠	zhu she yong huang bian xi lin na	5
@@ -11724,7 +11724,7 @@ sort: by_weight
 雪胆胃肠丸	xue dan wei chang wan	5
 枳术丸	zhi shu wan	5
 老年性精神病	lao nian xing jing shen bing	5
-感冒止咳糖浆	gan mao zhi ke tang jiang	5
+感冒止咳糖浆	gan mao zhi hai tang jiang	5
 苯磺酸左旋氨氯地平片	ben huang suan zuo xuan an lv di ping pian	5
 四季感冒胶囊	si ji gan mao jiao nang	5
 输精管吻合术	shu jing guan wen he shu	5
@@ -11755,7 +11755,7 @@ sort: by_weight
 染色体工程	ran se ti gong cheng	5
 来立信	lai li xin	5
 小儿消食片	xiao er xiao shi pian	5
-地氯雷他定	di lv lei ta ding	5
+地氯雷他定	de lv lei ta ding	5
 强痛定	qiang tong ding	5
 中毒性肺炎	zhong du xing fei yan	5
 少冲穴	shao chong xue	5
@@ -12231,7 +12231,7 @@ sort: by_weight
 中老年高钙片	zhong lao nian gao gai pian	4
 尸冷	shi leng	4
 参南星口服液	can nan xing kou fu ye	4
-头孢地尼胶囊	tou bao di ni jiao nang	4
+头孢地尼胶囊	tou bao de ni jiao nang	4
 消渴降糖片	xiao ke jiang tang pian	4
 康复功能评定	kang fu gong neng ping ding	4
 山麦冬	shan mai dong	4
@@ -12307,7 +12307,7 @@ sort: by_weight
 府舍	fu she	4
 格列美脲片	ge lie mei niao pian	4
 鼻窦囊肿	bi dou nang zhong	4
-镇咳糖浆	zhen ke tang jiang	4
+镇咳糖浆	zhen hai tang jiang	4
 奈瑟氏菌	nai se shi jun	4
 蔗糖酶	zhe tang mei	4
 黄葵胶囊	huang kui jiao nang	4
@@ -12431,7 +12431,7 @@ sort: by_weight
 复方党参片	fu fang dang shen pian	4
 盐酸黄连素片	yan suan huang lian su pian	4
 毒鱼藤	du yu teng	4
-小儿宣肺止咳颗粒	xiao er xuan fei zhi ke ke li	4
+小儿宣肺止咳颗粒	xiao er xuan fei zhi hai ke li	4
 补虚药	bu xu yao	4
 藏毛窦	cang mao dou	4
 谷氨酰转移酶	gu an xian zhuan yi mei	4
@@ -12450,7 +12450,7 @@ sort: by_weight
 健延龄胶囊	jian yan ling jiao nang	4
 滴瓶	di ping	4
 二甲硅油	er jia gui you	4
-小儿清热止咳口服液	xiao er qing re zhi ke kou fu ye	4
+小儿清热止咳口服液	xiao er qing re zhi hai kou fu ye	4
 甲砜霉素肠溶片	jia feng mei su chang rong pian	4
 盖天力	gai tian li	4
 翻译后修饰	fan yi hou xiu shi	4
@@ -12473,7 +12473,7 @@ sort: by_weight
 清热凉茶	qing re liang cha	4
 巴戟补酒	ba ji bu jiu	4
 氨基酸螯合钙	an ji suan ao he gai	4
-小儿消积止咳口服液	xiao er xiao ji zhi ke kou fu ye	4
+小儿消积止咳口服液	xiao er xiao ji zhi hai kou fu ye	4
 海鱼分枝杆菌	hai yu fen zhi gan jun	4
 氯沙坦钾氢氯噻嗪片	lv sha tan jia qing lv sai qin pian	4
 粒细胞肉瘤	li xi bao rou liu	4
@@ -12525,7 +12525,7 @@ sort: by_weight
 水谷之海	shui gu zhi hai	4
 盐酸氟西汀	yan suan fu xi ting	4
 问题空间	wen ti kong jian	4
-沙参止咳汤散	sha shen zhi ke tang san	4
+沙参止咳汤散	sha shen zhi hai tang san	4
 混合血栓	hun he xue shuan	4
 生物性传播	sheng wu xing chuan bo	4
 活血胶囊	huo xue jiao nang	4
@@ -12603,7 +12603,7 @@ sort: by_weight
 宫瘤清片	gong liu qing pian	4
 川芎茶调颗粒	chuan qiong cha diao ke li	4
 野战外科学	ye zhan wai ke xue	4
-地锦草	di jin cao	4
+地锦草	de jin cao	4
 肝苏软胶囊	gan su ruan jiao nang	4
 鼻病毒感染	bi bing du gan ran	4
 柳氮磺吡啶	liu dan huang bi ding	4
@@ -12627,13 +12627,13 @@ sort: by_weight
 先天性阴道闭锁	xian tian xing yin dao bi suo	4
 郑夏恩	zheng xia en	4
 强电解质	qiang dian jie zhi	4
-地鳖	di bie	4
+地鳖	de bie	4
 肝十二指肠韧带	gan shi er zhi chang ren dai	4
 微波疗法	wei bo liao fa	4
 红药片	hong yao pian	4
 风湿关节炎丸	feng shi guan jie yan wan	4
 麝香痔疮栓	she xiang zhi chuang shuan	4
-丁咯地尔	ding ge di er	4
+丁咯地尔	ding ge de er	4
 咳喘舒片	ke chuan shu pian	4
 消瘰丸	xiao luo wan	4
 角化病	jiao hua bing	4
@@ -12714,7 +12714,7 @@ sort: by_weight
 睑裂斑	jian lie ban	4
 眼电图	yan dian tu	4
 膈下逐瘀汤	ge xia zhu yu tang	4
-扫日劳清肺止咳胶囊	sao ri lao qing fei zhi ke jiao nang	4
+扫日劳清肺止咳胶囊	sao ri lao qing fei zhi hai jiao nang	4
 乙酰半胱氨酸颗粒	yi xian ban guang an suan ke li	4
 重唇	zhong chun	4
 悬颅	xuan lu	4
@@ -12753,7 +12753,7 @@ sort: by_weight
 支气管结石	zhi qi guan jie shi	4
 行为遗传学	xing wei yi chuan xue	4
 清咽六味散	qing yan liu wei san	4
-止咳定喘丸	zhi ke ding chuan wan	4
+止咳定喘丸	zhi hai ding chuan wan	4
 腭咽闭合不全	e yan bi he bu quan	4
 鸣管	ming guan	4
 多巴丝肼	duo ba si jing	4
@@ -12807,7 +12807,7 @@ sort: by_weight
 骨肽注射液	gu tai zhu she ye	4
 氨溴特罗口服溶液	an xiu te luo kou fu rong ye	4
 急性子宫内膜炎	ji xing zi gong nei mo yan	4
-治咳川贝枇杷滴丸	zhi ke chuan bei pi pa di wan	4
+治咳川贝枇杷滴丸	zhi hai chuan bei pi pa di wan	4
 手指再造术	shou zhi zai zao shu	4
 鼻成形术	bi cheng xing shu	4
 轮状病毒抗原	lun zhuang bing du kang yuan	4
@@ -12845,7 +12845,7 @@ sort: by_weight
 沙培林	sha pei lin	4
 珍香胶囊	zhen xiang jiao nang	4
 卡波西肉瘤	ka bo xi rou liu	4
-杏苏止咳糖浆	xing su zhi ke tang jiang	4
+杏苏止咳糖浆	xing su zhi hai tang jiang	4
 脑心安胶囊	nao xin an jiao nang	4
 薄层色谱法	bao ceng se pu fa	4
 尿毒清	niao du qing	4
@@ -13008,7 +13008,7 @@ sort: by_weight
 僵人综合征	jiang ren zong he zheng	3
 细菌性膀胱炎	xi jun xing pang guang yan	3
 新清宁片	xin qing ning pian	3
-罗汉果止咳胶囊	luo han guo zhi ke jiao nang	3
+罗汉果止咳胶囊	luo han guo zhi hai jiao nang	3
 普伐他汀钠	pu fa ta ting na	3
 盐酸替罗非班	yan suan ti luo fei ban	3
 甘草酸苷	gan cao suan gan	3
@@ -13175,7 +13175,7 @@ sort: by_weight
 图距	tu ju	3
 金奥康	jin ao kang	3
 头孢磺啶	tou bao huang ding	3
-卤地菊	lu di ju	3
+卤地菊	lu de ju	3
 鸦胆子油口服乳液	ya dan zi you kou fu ru ye	3
 振动光谱	zhen dong guang pu	3
 假性球麻痹	jia xing qiu ma bi	3
@@ -13184,7 +13184,7 @@ sort: by_weight
 裸花紫珠片	luo hua zi zhu pian	3
 性别决定基因	xing bie jue ding ji yin	3
 人参蛤蚧散	ren shen ge jie san	3
-止咳宝片	zhi ke bao pian	3
+止咳宝片	zhi hai bao pian	3
 环酯红霉素	huan zhi hong mei su	3
 吸附能	xi fu neng	3
 尿色素	niao se su	3
@@ -13194,14 +13194,14 @@ sort: by_weight
 凝血酶时间	ning xue mei shi jian	3
 根尖脓肿	gen jian nong zhong	3
 头孢克洛缓释片	tou bao ke luo huan shi pian	3
-消炎止咳胶囊	xiao yan zhi ke jiao nang	3
+消炎止咳胶囊	xiao yan zhi hai jiao nang	3
 跌打红药片	die da hong yao pian	3
 肿瘤放射治疗学	zhong liu fang she zhi liao xue	3
 安康欣胶囊	an kang xin jiao nang	3
 三叶虫类	san ye chong lei	3
 水杨酸盐	shui yang suan yan	3
 前列腺囊肿	qian lie xian nang zhong	3
-复方醋酸甲地孕酮片	fu fang cu suan jia di yun tong pian	3
+复方醋酸甲地孕酮片	fu fang cu suan jia de yun tong pian	3
 少泽穴	shao ze xue	3
 芍药汤	shao yao tang	3
 粪瘘	fen lou	3
@@ -13370,7 +13370,7 @@ sort: by_weight
 三味蒺藜散	san wei ji li san	3
 松果体母细胞瘤	song guo ti mu xi bao liu	3
 明泽胶囊	ming ze jiao nang	3
-地奥心血康软胶囊	di ao xin xue kang ruan jiao nang	3
+地奥心血康软胶囊	de ao xin xue kang ruan jiao nang	3
 电工与电子技术	dian gong yu dian zi ji shu	3
 二巯基丙磺酸钠	er qiu ji bing huang suan na	3
 三硅酸镁	san gui suan mei	3
@@ -13481,7 +13481,7 @@ sort: by_weight
 力保肪宁	li bao fang ning	3
 持续性枕后位	chi xu xing zhen hou wei	3
 一清胶囊	yi qing jiao nang	3
-阴地蕨	yin di jue	3
+阴地蕨	yin de jue	3
 肿痛凝胶	zhong tong ning jiao	3
 裸花紫珠	luo hua zi zhu	3
 上皮样细胞	shang pi yang xi bao	3
@@ -13490,7 +13490,7 @@ sort: by_weight
 绝骨	jue gu	3
 葛根汤颗粒	ge gen tang ke li	3
 当归芍药散	dang gui shao yao san	3
-喘咳宁片	chuan ke ning pian	3
+喘咳宁片	chuan hai ning pian	3
 觅食反射	mi shi fan she	3
 主动转运	zhu dong zhuan yun	3
 战壕热	zhan hao re	3
@@ -13567,7 +13567,7 @@ sort: by_weight
 芍药苷	shao yao gan	3
 副胎盘	fu tai pan	3
 清肝降压胶囊	qing gan jiang ya jiao nang	3
-西地碘	xi di dian	3
+西地碘	xi de dian	3
 血塞通胶囊	xue sai tong jiao nang	3
 桉柠蒎肠溶软胶囊	an ning pai chang rong ruan jiao nang	3
 噻吗心安	sai ma xin an	3
@@ -13602,7 +13602,7 @@ sort: by_weight
 核糖核酸酶	he tang he suan mei	3
 曲安奈德新霉素贴膏	qu an nai de xin mei su tie gao	3
 丙戊酸钠片	bing wu suan na pian	3
-橘红痰咳煎膏	ju hong tan ke jian gao	3
+橘红痰咳煎膏	ju hong tan hai jian gao	3
 阿立哌唑片	a li pai zuo pian	3
 颠茄浸膏	dian jia jin gao	3
 阿立哌唑	a li pai zuo	3
@@ -13651,7 +13651,7 @@ sort: by_weight
 呋喃果糖苷酶	fu nan guo tang gan mei	3
 营养与膳食指导	ying yang yu shan shi zhi dao	3
 百年乐	bai nian le	3
-咳宁胶囊	ke ning jiao nang	3
+咳宁胶囊	hai ning jiao nang	3
 陈述性记忆	chen shu xing ji yi	3
 紫龙金片	zi long jin pian	3
 直肠闭锁	zhi chang bi suo	3
@@ -13669,7 +13669,7 @@ sort: by_weight
 彩色多普勒血流显像	cai se duo pu lei xue liu xian xiang	3
 三白草	san bai cao	3
 中医药膳学	zhong yi yao shan xue	3
-夫西地酸钠	fu xi di suan na	3
+夫西地酸钠	fu xi de suan na	3
 雷洛昔芬	lei luo xi fen	3
 乳酸溶液	ru suan rong ye	3
 口腔颌面外科学	kou qiang he mian wai ke xue	3
@@ -13684,7 +13684,7 @@ sort: by_weight
 长春西汀	chang chun xi ting	3
 驱虫消食片	qu chong xiao shi pian	3
 参蟾消解胶囊	can chan xiao jie jiao nang	3
-佩夫人止咳露	pei fu ren zhi ke lu	3
+佩夫人止咳露	pei fu ren zhi hai lu	3
 氯沙坦钾片	lv sha tan jia pian	3
 心悸病	xin ji bing	3
 替加氟	ti jia fu	3
@@ -13769,7 +13769,7 @@ sort: by_weight
 日光性荨麻疹	ri guang xing xun ma zhen	3
 次碳酸铋	ci tan suan bi	3
 屈光不正性弱视	qu guang bu zheng xing ruo shi	3
-川贝止咳糖浆	chuan bei zhi ke tang jiang	3
+川贝止咳糖浆	chuan bei zhi hai tang jiang	3
 眶蜂窝织炎	kuang feng wo zhi yan	3
 耳廓再造术	er kuo zai zao shu	3
 大学英语口语	da xue ying yu kou yu	3
@@ -13930,7 +13930,7 @@ sort: by_weight
 颅裂	lu lie	3
 郁积性皮炎	yu ji xing pi yan	3
 头孢替唑钠	tou bao ti zuo na	3
-地芬尼多	di fen ni duo	3
+地芬尼多	de fen ni duo	3
 二甲基乙酰胺	er jia ji yi xian an	3
 小柴胡汤丸	xiao chai hu tang wan	3
 养血清脑丸	yang xue qing nao wan	3
@@ -14143,7 +14143,7 @@ sort: by_weight
 金防感冒颗粒	jin fang gan mao ke li	2
 齐墩果酸胶囊	qi dun guo suan jiao nang	2
 二巯丁二酸	er qiu ding er suan	2
-盐酸伐地那非	yan suan fa di na fei	2
+盐酸伐地那非	yan suan fa de na fei	2
 脂必妥	zhi bi tuo	2
 黑粉菌	hei fen jun	2
 银杏洋参胶囊	yin xing yang can jiao nang	2
@@ -14215,7 +14215,7 @@ sort: by_weight
 头痛片	tou tong pian	2
 麻仁滋脾丸	ma ren zi pi wan	2
 活血壮筋丸	huo xue zhuang jin wan	2
-橘红痰咳液	ju hong tan ke ye	2
+橘红痰咳液	ju hong tan hai ye	2
 柴黄颗粒	chai huang ke li	2
 美洛昔康注射液	mei luo xi kang zhu she ye	2
 苯噻啶	ben sai ding	2
@@ -14412,14 +14412,14 @@ sort: by_weight
 盐酸左旋咪唑宝塔糖	yan suan zuo xuan mi zuo bao ta tang	2
 马来酸多潘立酮	ma lai suan duo pan li tong	2
 严用和	yan yong he	2
-米诺地尔酊	mi nuo di er ding	2
+米诺地尔酊	mi nuo de er ding	2
 双歧杆菌三联活菌胶囊	shuang qi gan jun san lian huo jun jiao nang	2
 水红花子	shui hong hua zi	2
 五输穴	wu shu xue	2
 熊胆痔灵栓	xiong dan zhi ling shuan	2
 洋参保肺胶囊	yang can bao fei jiao nang	2
 异烟肼片	yi yan jing pian	2
-地屈孕酮	di qu yun tong	2
+地屈孕酮	de qu yun tong	2
 回避型人格障碍	hui bi xing ren ge zhang ai	2
 维胺酯胶囊	wei an zhi jiao nang	2
 鼻背动脉	bi bei dong mai	2
@@ -14479,7 +14479,7 @@ sort: by_weight
 上髎	shang liao	2
 回流法	hui liu fa	2
 单层柱状上皮	dan ceng zhu zhuang shang pi	2
-乌拉地尔	wu la di er	2
+乌拉地尔	wu la de er	2
 重瓣胃	zhong ban wei	2
 随体	sui ti	2
 癃闭舒胶囊	long bi shu jiao nang	2
@@ -14508,7 +14508,7 @@ sort: by_weight
 补气升提	bu qi sheng ti	2
 邬维庸	wu wei yong	2
 北里柴三郎	bei li chai san lang	2
-布地奈德气雾剂	bu di nai de qi wu ji	2
+布地奈德气雾剂	bu de nai de qi wu ji	2
 毁灭效应	hui mie xiao ying	2
 桂枝茯苓胶囊	gui zhi fu ling jiao nang	2
 菱形肌	ling xing ji	2
@@ -14793,7 +14793,7 @@ sort: by_weight
 掌跖脓疱病	zhang zhi nong pao bing	2
 顶体反应	ding ti fan ying	2
 鹿鞭回春胶囊	lu bian hui chun jiao nang	2
-儿童咳液	er tong ke ye	2
+儿童咳液	er tong hai ye	2
 心元胶囊	xin yuan jiao nang	2
 跖趾关节脱位	zhi zhi guan jie tuo wei	2
 委阳	wei yang	2
@@ -14901,7 +14901,7 @@ sort: by_weight
 坐骨大孔	zuo gu da kong	2
 无水硫酸镁	wu shui liu suan mei	2
 臀上皮神经	tun shang pi shen jing	2
-痰咳净片	tan ke jing pian	2
+痰咳净片	tan hai jing pian	2
 肝宁片	gan ning pian	2
 倍他米松戊酸酯	bei ta mi song wu suan zhi	2
 塞雪风湿胶囊	sai xue feng shi jiao nang	2
@@ -14912,7 +14912,7 @@ sort: by_weight
 总胆汁酸	zong dan zhi suan	2
 硫酸锌糖浆	liu suan xin tang jiang	2
 成脓期	cheng nong qi	2
-地红霉素肠溶片	di hong mei su chang rong pian	2
+地红霉素肠溶片	de hong mei su chang rong pian	2
 磺胺脒	huang an mi	2
 红豆蔻	hong dou kou	2
 复方岗稔片	fu fang gang ren pian	2
@@ -14953,7 +14953,7 @@ sort: by_weight
 再变态	zai bian tai	2
 阳生植物	yang sheng zhi wu	2
 磷酸酯酶	lin suan zhi mei	2
-依地酸钙钠	yi di suan gai na	2
+依地酸钙钠	yi de suan gai na	2
 朱砂根	zhu sha gen	2
 酸性磷酸酶	suan xing lin suan mei	2
 红细胞保存液	hong xi bao bao cun ye	2
@@ -15071,7 +15071,7 @@ sort: by_weight
 扁平湿疣	bian ping shi you	2
 肝速康胶囊	gan su kang jiao nang	2
 求美动机	qiu mei dong ji	2
-地枫皮	di feng pi	2
+地枫皮	de feng pi	2
 厚朴温中汤	hou po wen zhong tang	2
 肚痛健胃整肠丸	du tong jian wei zheng chang wan	2
 氟他胺片	fu ta an pian	2
@@ -15202,7 +15202,7 @@ sort: by_weight
 淋巴上皮癌	lin ba shang pi ai	2
 部分冠	bu fen guan	2
 宁心安神胶囊	ning xin an shen jiao nang	2
-咳舒糖浆	ke shu tang jiang	2
+咳舒糖浆	hai shu tang jiang	2
 吸入麻醉药	xi ru ma zui yao	2
 虫白蜡	chong bai la	2
 黄素腺嘌呤二核苷酸	huang su xian piao ling er he gan suan	2
@@ -15231,7 +15231,7 @@ sort: by_weight
 利培酮口腔崩解片	li pei tong kou qiang beng jie pian	2
 陈宜张	chen yi zhang	2
 大圆肌	da yuan ji	2
-蒲地蓝消炎胶囊	pu di lan xiao yan jiao nang	2
+蒲地蓝消炎胶囊	pu de lan xiao yan jiao nang	2
 中医五官科学	zhong yi wu guan ke xue	2
 注射用伏立康唑	zhu she yong fu li kang zuo	2
 肾发育不全	shen fa yu bu quan	2
@@ -15243,7 +15243,7 @@ sort: by_weight
 交叉配血试验	jiao cha pei xue shi yan	2
 聚丙烯酰胺凝胶	ju bing xi xian an ning jiao	2
 普通型偏头痛	pu tong xing pian tou tong	2
-夫西地酸	fu xi di suan	2
+夫西地酸	fu xi de suan	2
 胸肋关节	xiong le guan jie	2
 异种移植物	yi zhong yi zhi wu	2
 光线性角化病	guang xian xing jiao hua bing	2
@@ -15264,7 +15264,7 @@ sort: by_weight
 板状腹	ban zhuang fu	2
 联苯乙酸	lian ben yi suan	2
 扁平髋	bian ping kuan	2
-地诺前列酮	di nuo qian lie tong	2
+地诺前列酮	de nuo qian lie tong	2
 润伊容胶囊	run yi rong jiao nang	2
 重组率	chong zu lv	2
 秉风	bing feng	2
@@ -15327,7 +15327,7 @@ sort: by_weight
 腮腺恶性肿瘤	sai xian e xing zhong liu	2
 新生儿眼炎	xin sheng er yan yan	2
 木鳖子	mu bie zi	2
-盐酸地芬尼多片	yan suan di fen ni duo pian	2
+盐酸地芬尼多片	yan suan de fen ni duo pian	2
 表里俱热	biao li ju re	2
 小儿敷脐止泻散	xiao er fu qi zhi xie san	2
 二氧丙嗪	er yang bing qin	2
@@ -15340,7 +15340,7 @@ sort: by_weight
 三肾丸	san shen wan	2
 瘭疽	biao ju	2
 牛黄上清片	niu huang shang qing pian	2
-依地酸钙钠注射液	yi di suan gai na zhu she ye	2
+依地酸钙钠注射液	yi de suan gai na zhu she ye	2
 醋碘苯酸钠	cu dian ben suan na	2
 晶体渗透压	jing ti shen tou ya	2
 黄芩素铝胶囊	huang qin su lv jiao nang	2
@@ -15430,7 +15430,7 @@ sort: by_weight
 太子保心口服液	tai zi bao xin kou fu ye	2
 鞭虫病	bian chong bing	2
 重组修复	chong zu xiu fu	2
-地奥司明	di ao si ming	2
+地奥司明	de ao si ming	2
 涎石	xian shi	2
 硫利达嗪	liu li da qin	2
 倍氯米松	bei lv mi song	2
@@ -15455,7 +15455,7 @@ sort: by_weight
 喜保福宁	xi bao fu ning	2
 曲克芦丁胶囊	qu ke lu ding jiao nang	2
 营养性水肿	ying yang xing shui zhong	2
-地屈孕酮片	di qu yun tong pian	2
+地屈孕酮片	de qu yun tong pian	2
 脓癣	nong xuan	2
 乌蛇止痒丸	wu she zhi yang wan	2
 全葡萄膜炎	quan pu tao mo yan	2
@@ -15516,7 +15516,7 @@ sort: by_weight
 独一味软胶囊	du yi wei ruan jiao nang	2
 洋地黄毒苷注射液	yang di huang du gan zhu she ye	2
 复方咳喘胶囊	fu fang ke chuan jiao nang	2
-地巴唑	di ba zuo	2
+地巴唑	de ba zuo	2
 吡拉西坦	bi la xi tan	2
 鹅不食草	e bu shi cao	2
 脑灵素胶囊	nao ling su jiao nang	2
@@ -15614,7 +15614,7 @@ sort: by_weight
 肌皮神经	ji pi shen jing	2
 空气透视	kong qi tou shi	2
 乙肝灵丸	yi gan ling wan	2
-萘哌地尔片	nai pai di er pian	2
+萘哌地尔片	nai pai de er pian	2
 美沙拉嗪	mei sha la qin	2
 异功散	yi gong san	2
 生天南星	sheng tian nan xing	2
@@ -15623,7 +15623,7 @@ sort: by_weight
 细脉	xi mai	2
 注射用去甲斑蝥酸钠	zhu she yong qu jia ban mao suan na	2
 盐酸克仑特罗栓	yan suan ke lun te luo shuan	2
-矮地茶	ai di cha	2
+矮地茶	ai de cha	2
 复方苯甲酸酊	fu fang ben jia suan ding	2
 通脉胶囊	tong mai jiao nang	2
 蛇胆川贝口服液	she dan chuan bei kou fu ye	2
@@ -15687,7 +15687,7 @@ sort: by_weight
 副乳房	fu ru fang	2
 髂内静脉	qia nei jing mai	2
 桡侧腕短伸肌	rao ce wan duan shen ji	1
-小儿清肺止咳片	xiao er qing fei zhi ke pian	1
+小儿清肺止咳片	xiao er qing fei zhi hai pian	1
 大角膜	da jiao mo	1
 血络通胶囊	xue luo tong jiao nang	1
 氟马西尼	fu ma xi ni	1
@@ -15704,7 +15704,7 @@ sort: by_weight
 阈浓度	yu nong du	1
 天和追风膏	tian he zhui feng gao	1
 川西獐牙菜	chuan xi zhang ya cai	1
-止咳橘红胶囊	zhi ke ju hong jiao nang	1
+止咳橘红胶囊	zhi hai ju hong jiao nang	1
 超微型浮游生物	chao wei xing fu you sheng wu	1
 琥珀还睛丸	hu po hai jing wan	1
 复方万年青胶囊	fu fang wan nian qing jiao nang	1
@@ -15755,7 +15755,7 @@ sort: by_weight
 复方苦参洗剂	fu fang ku shen xi ji	1
 腔静脉造影	qiang jing mai zao ying	1
 琼脂糖凝胶电泳	qiong zhi tang ning jiao dian yong	1
-复方百部止咳糖浆	fu fang bai bu zhi ke tang jiang	1
+复方百部止咳糖浆	fu fang bai bu zhi hai tang jiang	1
 大果木姜子	da guo mu jiang zi	1
 泻痢固肠丸	xie li gu chang wan	1
 滋阴益胃	zi yin yi wei	1
@@ -15806,7 +15806,7 @@ sort: by_weight
 轴突运输	zhou tu yun shu	1
 玻璃体液	bo li ti ye	1
 不规则骨	bu gui ze gu	1
-吡贝地尔	bi bei di er	1
+吡贝地尔	bi bei de er	1
 热痱搽剂	re fei cha ji	1
 盐酸萘甲唑啉	yan suan nai jia zuo lin	1
 前列泰颗粒	qian lie tai ke li	1
@@ -15889,7 +15889,7 @@ sort: by_weight
 蛤蚧补肾丸	ge jie bu shen wan	1
 富马酸喹硫平	fu ma suan kui liu ping	1
 肾性尿崩症	shen xing niao beng zheng	1
-复方甲地孕酮片	fu fang jia di yun tong pian	1
+复方甲地孕酮片	fu fang jia de yun tong pian	1
 厚朴酚	hou po fen	1
 叶绿体基质	ye lv ti ji zhi	1
 胃泰胶囊	wei tai jiao nang	1
@@ -15994,7 +15994,7 @@ sort: by_weight
 新红铝色淀	xin hong lv se dian	1
 复方氨酚愈敏口服溶液	fu fang an fen yu min kou fu rong ye	1
 寻常性痤疮	xun chang xing cuo chuang	1
-地红霉素	di hong mei su	1
+地红霉素	de hong mei su	1
 肝郁血虚证	gan yu xue xu zheng	1
 复方北豆根氨酚那敏片	fu fang bei dou gen an fen na min pian	1
 偏历	pian li	1
@@ -16071,7 +16071,7 @@ sort: by_weight
 新生儿发热	xin sheng er fa re	1
 督俞穴	du yu xue	1
 先天性肌强直	xian tian xing ji qiang zhi	1
-枇杷止咳颗粒	pi pa zhi ke ke li	1
+枇杷止咳颗粒	pi pa zhi hai ke li	1
 中毒性巨结肠	zhong du xing ju jie chang	1
 积极优生学	ji ji you sheng xue	1
 红斑性肢痛症	hong ban xing zhi tong zheng	1
@@ -16100,7 +16100,7 @@ sort: by_weight
 益心酮片	yi xin tong pian	1
 犀角化毒丸	xi jiao hua du wan	1
 腹膜后充气造影	fu mo hou chong qi zao ying	1
-地高辛酏剂	di gao xin yi ji	1
+地高辛酏剂	de gao xin yi ji	1
 窦房传导阻滞	dou fang chuan dao zu zhi	1
 骨骺炎	gu hou yan	1
 阳虚寒凝证	yang xu han ning zheng	1
@@ -16160,7 +16160,7 @@ sort: by_weight
 盐酸赛庚啶	yan suan sai geng ding	1
 复方谷氨酰胺颗粒	fu fang gu an xian an ke li	1
 新霉素滴眼剂	xin mei su di yan ji	1
-止咳橘红颗粒	zhi ke ju hong ke li	1
+止咳橘红颗粒	zhi hai ju hong ke li	1
 比沙可啶肠溶片	bi sha ke ding chang rong pian	1
 当归补血丸	dang gui bu xue wan	1
 参茸补血酒	shen rong bu xue jiu	1
@@ -16190,7 +16190,7 @@ sort: by_weight
 参桂理中丸	can gui li zhong wan	1
 复方磺胺甲恶唑分散片	fu fang huang an jia e zuo fen san pian	1
 闭合性气胸	bi he xing qi xiong	1
-茚地那韦	yin di na wei	1
+茚地那韦	yin de na wei	1
 休克型肺炎	xiu ke xing fei yan	1
 桡神经沟	rao shen jing gou	1
 复合乳酸菌胶囊	fu he ru suan jun jiao nang	1
@@ -16225,7 +16225,7 @@ sort: by_weight
 鼻端出火	bi duan chu huo	1
 皮特克恩岛	pi te ke en dao	1
 犀角地黄丸	xi jiao di huang wan	1
-复方太子参止咳益气散	fu fang tai zi can zhi ke yi qi san	1
+复方太子参止咳益气散	fu fang tai zi can zhi hai yi qi san	1
 程应旄	cheng ying mao	1
 胫侧副韧带	jing ce fu ren dai	1
 光辉霉素	guang hui mei su	1
@@ -16386,7 +16386,7 @@ sort: by_weight
 选择染色	xuan ze ran se	1
 复方炉甘石外用散	fu fang lu gan shi wai yong san	1
 氢溴酸山莨菪碱	qing xiu suan shan lang dang jian	1
-地昔帕明	di xi pa ming	1
+地昔帕明	de xi pa ming	1
 羟甲烯龙	qiang jia xi long	1
 盐酸金刚烷胺片	yan suan jin gang wan an pian	1
 记忆表象	ji yi biao xiang	1
@@ -16424,7 +16424,7 @@ sort: by_weight
 酒石酸溴莫尼定滴眼液	jiu shi suan xiu mo ni ding di yan ye	1
 先天性秃发	xian tian xing tu fa	1
 大颗粒淋巴细胞	da ke li lin ba xi bao	1
-小儿清热止咳颗粒	xiao er qing re zhi ke ke li	1
+小儿清热止咳颗粒	xiao er qing re zhi hai ke li	1
 尼可刹米注射液	ni ke sha mi zhu she ye	1
 益寿大补酒	yi shou da bu jiu	1
 小儿复方麻黄碱桔梗	xiao er fu fang ma huang jian jie geng	1
@@ -16462,7 +16462,7 @@ sort: by_weight
 红芪口服液	hong qi kou fu ye	1
 总铁结合力	zong tie jie he li	1
 定群研究	ding qun yan jiu	1
-芒果止咳片	mang guo zhi ke pian	1
+芒果止咳片	mang guo zhi hai pian	1
 复方蛇胆川贝末	fu fang she dan chuan bei mo	1
 地中海热	di zhong hai re	1
 阴虚火旺证	yin xu huo wang zheng	1
@@ -16583,7 +16583,7 @@ sort: by_weight
 乙肝清热解毒胶囊	yi gan qing re jie du jiao nang	1
 交叉耐受	jiao cha nai shou	1
 何若愚	he ruo yu	1
-克咳胶囊	ke ke jiao nang	1
+克咳胶囊	ke hai jiao nang	1
 矾藤痔注射液	fan teng zhi zhu she ye	1
 黛蛤散	dai ha san	1
 睾丸附件扭转	gao wan fu jian niu zhuan	1
@@ -16621,13 +16621,13 @@ sort: by_weight
 活血止痛散	huo xue zhi tong san	1
 多糖铁胶囊	duo tang tie jiao nang	1
 化脓性炎	hua nong xing yan	1
-地蒽酚	di en fen	1
+地蒽酚	de en fen	1
 浸润性突眼	jin run xing tu yan	1
-复方桔梗止咳片	fu fang jie geng zhi ke pian	1
+复方桔梗止咳片	fu fang jie geng zhi hai pian	1
 利咽含片	li yan han pian	1
 脂蛋白血症	zhi dan bai xue zheng	1
 环酯红霉素片	huan zhi hong mei su pian	1
-止咳橘红口服液	zhi ke ju hong kou fu ye	1
+止咳橘红口服液	zhi hai ju hong kou fu ye	1
 卡莫氟	ka mo fu	1
 盐酸组氨酸	yan suan zu an suan	1
 落叶型天疱疮	luo ye xing tian pao chuang	1
@@ -16681,7 +16681,7 @@ sort: by_weight
 高出叶	gao chu ye	1
 盐酸雷尼替丁	yan suan lei ni ti ding	1
 横结肠系膜	heng jie chang xi mo	1
-盐酸法舒地尔	yan suan fa shu di er	1
+盐酸法舒地尔	yan suan fa shu de er	1
 拉坦前列素	la tan qian lie su	1
 天芪降糖胶囊	tian qi jiang tang jiao nang	1
 调中益气汤	diao zhong yi qi tang	1
@@ -16751,7 +16751,7 @@ sort: by_weight
 己二烯雌酚	ji er xi ci fen	1
 吴太咽炎片	wu tai yan yan pian	1
 陈香露白露片	chen xiang lou bai lu pian	1
-咳露口服液	ke lu kou fu ye	1
+咳露口服液	hai lu kou fu ye	1
 抗骨增生丸	kang gu zeng sheng wan	1
 上廉泉	shang lian quan	1
 超声吸脂	chao sheng xi zhi	1
@@ -16813,7 +16813,7 @@ sort: by_weight
 印模材料	yin mo cai liao	1
 虹膜缺损	hong mo que sun	1
 毒理学基础	du li xue ji chu	1
-咳痰清糖浆	ke tan qing tang jiang	1
+咳痰清糖浆	hai tan qing tang jiang	1
 盐酸多塞平乳膏	yan suan duo sai ping ru gao	1
 最大无作用剂量	zui da wu zuo yong ji liang	1
 格列喹酮片	ge lie kui tong pian	1
@@ -16825,7 +16825,7 @@ sort: by_weight
 肾精不足证	shen jing bu zu zheng	1
 宫炎平胶囊	gong yan ping jiao nang	1
 岗松	gang song	1
-注射用头孢地嗪钠	zhu she yong tou bao di qin na	1
+注射用头孢地嗪钠	zhu she yong tou bao de qin na	1
 小儿鼻炎	xiao er bi yan	1
 烧烫伤软膏	shao tang shang ruan gao	1
 申脉	shen mai	1
@@ -16844,7 +16844,7 @@ sort: by_weight
 奈非那韦	nai fei na wei	1
 夏天无滴眼液	xia tian wu di yan ye	1
 抗衰老口服液	kang shuai lao kou fu ye	1
-感冒止咳冲剂	gan mao zhi ke chong ji	1
+感冒止咳冲剂	gan mao zhi hai chong ji	1
 复方氨酚烷胺颗粒	fu fang an fen wan an ke li	1
 头孢呋辛脂	tou bao fu xin zhi	1
 多烯紫杉醇	duo xi zi shan chun	1
@@ -16944,7 +16944,7 @@ sort: by_weight
 通窍益心丸	tong qiao yi xin wan	1
 便血病	bian xue bing	1
 冷冻干燥法	leng dong gan zao fa	1
-法舒地尔	fa shu di er	1
+法舒地尔	fa shu de er	1
 槟榔四消片	bing lang si xiao pian	1
 骨化三醇胶丸	gu hua san chun jiao wan	1
 狭叶红景天	xia ye hong jing tian	1
@@ -17029,7 +17029,7 @@ sort: by_weight
 膀胱息肉	pang guang xi rou	1
 室间孔	shi jian kong	1
 治偏痛颗粒	zhi pian tong ke li	1
-前列地尔	qian lie di er	1
+前列地尔	qian lie de er	1
 通宣理肺片	tong xuan li fei pian	1
 婴儿坏疽性皮炎	ying er huai ju xing pi yan	1
 液泡膜	ye pao mo	1
@@ -17092,7 +17092,7 @@ sort: by_weight
 多功能酶	duo gong neng mei	1
 肾小管性蛋白尿	shen xiao guan xing dan bai niao	1
 泻心汤	xie xin tang	1
-咳宁糖浆	ke ning tang jiang	1
+咳宁糖浆	hai ning tang jiang	1
 利咽颗粒	li yan ke li	1
 肺主治节	fei zhu zhi jie	1
 米氮平片	mi dan ping pian	1
@@ -17125,7 +17125,7 @@ sort: by_weight
 复方苦木消炎片	fu fang ku mu xiao yan pian	1
 舌扁桃体	she bian tao ti	1
 水杨酸苯酚贴膏	shui yang suan ben fen tie gao	1
-盐酸丁咯地尔	yan suan ding ge di er	1
+盐酸丁咯地尔	yan suan ding ge de er	1
 消渴灵胶囊	xiao ke ling jiao nang	1
 黑种草子	hei zhong cao zi	1
 鼻部囊肿	bi bu nang zhong	1
@@ -17205,7 +17205,7 @@ sort: by_weight
 腱鞘囊肿切除术	jian qiao nang zhong qie chu shu	1
 天麻头风灵胶囊	tian ma tou feng ling jiao nang	1
 急性肛裂	ji xing gang lie	1
-萘哌地尔	nai pai di er	1
+萘哌地尔	nai pai de er	1
 亚成虫	ya cheng chong	1
 恙螨皮炎	yang man pi yan	1
 乳酸依沙吖啶溶液	ru suan yi sha a ding rong ye	1
@@ -17230,7 +17230,7 @@ sort: by_weight
 木耳舒筋丸	mu er shu jin wan	1
 冰点降低法	bing dian jiang di fa	1
 醋酸甲羟孕酮片	cu suan jia qiang yun tong pian	1
-茸地益肾胶囊	rong di yi shen jiao nang	1
+茸地益肾胶囊	rong de yi shen jiao nang	1
 膀胱挫伤	pang guang cuo shang	1
 骨化中心	gu hua zhong xin	1
 腰椎骶化	yao zhui di hua	1
@@ -17285,7 +17285,7 @@ sort: by_weight
 牙痛安	ya tong an	1
 妇女痛经丸	fu nv tong jing wan	1
 局部兴奋	ju bu xing fen	1
-小儿清热止咳糖浆	xiao er qing re zhi ke tang jiang	1
+小儿清热止咳糖浆	xiao er qing re zhi hai tang jiang	1
 桑菊感冒冲剂	sang ju gan mao chong ji	1
 典型肺结核	dian xing fei jie he	1
 食品理化检验	shi pin li hua jian yan	1
@@ -17296,7 +17296,7 @@ sort: by_weight
 小肠疝	xiao chang shan	1
 静置培养	jing zhi pei yang	1
 甲基吡咯烷酮	jia ji bi ge wan tong	1
-氯地孕酮	lv di yun tong	1
+氯地孕酮	lv de yun tong	1
 刺五加脑灵胶囊	ci wu jia nao ling jiao nang	1
 十四经穴	shi si jing xue	1
 二甲磺酸阿米三嗪	er jia huang suan a mi san qin	1
@@ -17364,7 +17364,7 @@ sort: by_weight
 细胞溶解	xi bao rong jie	1
 阿胶补血颗粒	e jiao bu xue ke li	1
 甘油灌肠剂	gan you guan chang ji	1
-醋酸氯地孕酮	cu suan lv di yun tong	1
+醋酸氯地孕酮	cu suan lv de yun tong	1
 贝尼地平	bei ni di ping	1
 贝诺酯片	bei nuo zhi pian	1
 猫人参	mao ren shen	1
@@ -17423,7 +17423,7 @@ sort: by_weight
 免疫病理学	mian yi bing li xue	1
 大黄通便颗粒	dai huang tong bian ke li	1
 精囊结石	jing nang jie shi	1
-羚贝止咳糖浆	ling bei zhi ke tang jiang	1
+羚贝止咳糖浆	ling bei zhi hai tang jiang	1
 阳虚血瘀证	yang xu xue yu zheng	1
 标准桃金娘油肠溶胶囊	biao zhun tao jin niang you chang rong jiao nang	1
 丙酸倍氯米松	bing suan bei lv mi song	1
@@ -17445,7 +17445,7 @@ sort: by_weight
 鸦胆子油	ya dan zi you	1
 升麻葛根汤	sheng ma ge gen tang	1
 单纯型精神分裂症	dan chun xing jing shen fen lie zheng	1
-橘红痰咳泡腾片	ju hong tan ke pao teng pian	1
+橘红痰咳泡腾片	ju hong tan hai pao teng pian	1
 冰黄肤乐软膏	bing huang fu le ruan gao	1
 耳垂缺损	er chui que sun	1
 丹参舒心	dan shen shu xin	1
@@ -17486,7 +17486,7 @@ sort: by_weight
 镫骨手术	deng gu shou shu	1
 氧化苦参碱	yang hua ku shen jian	1
 甲氧氯普胺片	jia yang lv pu an pian	1
-可力地高辛片	ke li di gao xin pian	1
+可力地高辛片	ke li de gao xin pian	1
 哈蟆油	ha ma you	1
 鼻翼缺损修复术	bi yi que sun xiu fu shu	1
 丹桂香颗粒	dan gui xiang ke li	1
@@ -17698,7 +17698,7 @@ sort: by_weight
 精神运动性癫痫	jing shen yun dong xing dian xian	1
 虚实夹杂证	xu shi jia za zheng	1
 越鞠保和丸	yue ju bao he wan	1
-卡维地洛片	ka wei di luo pian	1
+卡维地洛片	ka wei de luo pian	1
 硫酸氨基葡萄糖片	liu suan an ji pu tao tang pian	1
 双歧三联活菌胶囊	shuang qi san lian huo jun jiao nang	1
 大实有羸状	da shi you lei zhuang	1
@@ -17712,7 +17712,7 @@ sort: by_weight
 免疫增强药	mian yi zeng qiang yao	1
 小儿清热片	xiao er qing re pian	1
 润肺膏	run fei gao	1
-银贝止咳颗粒	yin bei zhi ke ke li	1
+银贝止咳颗粒	yin bei zhi hai ke li	1
 防芷鼻炎片	fang zhi bi yan pian	1
 冲阳	chong yang	1
 异戊巴比妥钠	yi wu ba bi tuo na	1
@@ -17743,13 +17743,13 @@ sort: by_weight
 复方胚肝铁铵片	fu fang pei gan tie an pian	1
 硫酸异帕米星	liu suan yi pa mi xing	1
 唑来膦酸注射液	zuo lai lin suan zhu she ye	1
-杏苏止咳颗粒	xing su zhi ke ke li	1
+杏苏止咳颗粒	xing su zhi hai ke li	1
 心可舒颗粒	xin ke shu ke li	1
 根尖囊肿	gen jian nang zhong	1
 心尖搏动	xin jian bo dong	1
 慢性单纯性青光眼	man xing dan chun xing qing guang yan	1
 川百止痒洗剂	chuan bai zhi yang xi ji	1
-曲匹地尔片	qu pi di er pian	1
+曲匹地尔片	qu pi de er pian	1
 即刻义齿	ji ke yi chi	1
 输卵管发育异常	shu luan guan fa yu yi chang	1
 缺血性肌挛缩	que xue xing ji luan suo	1
@@ -17766,7 +17766,7 @@ sort: by_weight
 无敌丹胶囊	wu di dan jiao nang	1
 参志胶囊	can zhi jiao nang	1
 降纤酶	jiang xian mei	1
-地蜈蚣	di wu gong	1
+地蜈蚣	de wu gong	1
 丹鹿通督片	dan lu tong du pian	1
 福辛普利钠	fu xin pu li na	1
 注射用乳酸依沙吖啶	zhu she yong ru suan yi sha a ding	1
@@ -17843,7 +17843,7 @@ sort: by_weight
 醋酸白试验	cu suan bai shi yan	1
 先天性肺发育不全	xian tian xing fei fa yu bu quan	1
 消炎退热颗粒	xiao yan tui re ke li	1
-普诺地嗪	pu nuo di qin	1
+普诺地嗪	pu nuo de qin	1
 麝香狗皮膏	she xiang gou pi gao	1
 蛇毒血凝酶	she du xue ning mei	1
 双氯芬酸二乙胺乳胶剂	shuang lv fen suan er yi an ru jiao ji	1
@@ -17918,7 +17918,7 @@ sort: by_weight
 宁血汤	ning xue tang	1
 补肾益气胶囊	bu shen yi qi jiao nang	1
 氯雷他定咀嚼片	lv lei ta ding ju jue pian	1
-小儿热咳口服液	xiao er re ke kou fu ye	1
+小儿热咳口服液	xiao er re hai kou fu ye	1
 黄柏胶囊	huang bai jiao nang	1
 复方穿心莲片	fu fang chuan xin lian pian	1
 小牛血清去蛋白	xiao niu xue qing qu dan bai	1
@@ -17969,7 +17969,7 @@ sort: by_weight
 小儿止嗽金丹	xiao er zhi sou jin dan	1
 神经切除术	shen jing qie chu shu	1
 冉雪峰	ran xue feng	1
-阿拓莫兰	a tuo mo lan	1
+阿拓莫兰	a ta mo lan	1
 痰热证	tan re zheng	1
 复方乙酰水杨酸	fu fang yi xian shui yang suan	1
 醋酸钙颗粒	cu suan gai ke li	1
@@ -17984,7 +17984,7 @@ sort: by_weight
 异烟肼注射液	yi yan jing zhu she ye	1
 面斜裂	mian xie lie	1
 华蟾素片	hua chan su pian	1
-地芍消渴颗粒	di shao xiao ke ke li	1
+地芍消渴颗粒	de shao xiao ke ke li	1
 软材	ruan cai	1
 夏枯草胶囊	xia ku cao jiao nang	1
 脾结核	pi jie he	1
@@ -17994,7 +17994,7 @@ sort: by_weight
 异卡波肼	yi ka bo jing	1
 单纯性牙周炎	dan chun xing ya zhou yan	1
 半透性	ban tou xing	1
-伤风止咳糖浆	shang feng zhi ke tang jiang	1
+伤风止咳糖浆	shang feng zhi hai tang jiang	1
 洛芬待因片	luo fen dai yin pian	1
 钙代谢紊乱	gai dai xie wen luan	1
 去腐生肌散	qu fu sheng ji san	1
@@ -18127,7 +18127,7 @@ sort: by_weight
 中医伤科学	zhong yi shang ke xue	1
 环丙沙星片	huan bing sha xing pian	1
 毛冬青注射液	mao dong qing zhu she ye	1
-地五会	di wu hui	1
+地五会	de wu hui	1
 颈肋	jing le	1
 头孢他美酯	tou bao ta mei zhi	1
 米非司酮胶丸	mi fei si tong jiao wan	1
@@ -18154,9 +18154,9 @@ sort: by_weight
 傅培彬	fu pei bin	1
 大小恒常性	da xiao heng chang xing	1
 不寐病	bu mei bing	1
-盐酸阿莫地喹片	yan suan a mo di kui pian	1
+盐酸阿莫地喹片	yan suan a mo de kui pian	1
 高催乳素血症	gao cui ru su xue zheng	1
-止咳化痰丸	zhi ke hua tan wan	1
+止咳化痰丸	zhi hai hua tan wan	1
 马来酸氟伏沙明片	ma lai suan fu fu sha ming pian	1
 酒石酸美托洛尔片	jiu shi suan mei tuo luo er pian	1
 肝炎康复丸	gan yan kang fu wan	1
@@ -18546,7 +18546,7 @@ sort: by_weight
 三物备急丸	san wu bei ji wan	1
 自体受精	zi ti shou jing	1
 氯烯雌醚	lv xi ci mi	1
-复方罗汉果止咳冲剂	fu fang luo han guo zhi ke chong ji	1
+复方罗汉果止咳冲剂	fu fang luo han guo zhi hai chong ji	1
 消渴灵片	xiao ke ling pian	1
 注射用阿昔洛韦	zhu she yong a xi luo wei	1
 大小知觉	da xiao zhi jue	1
@@ -18557,7 +18557,7 @@ sort: by_weight
 抗乙肝转移因子口服液	kang yi gan zhuan yi yin zi kou fu ye	1
 砷角化病	shen jiao hua bing	1
 柯琴	ke qin	1
-半夏止咳糖浆	ban xia zhi ke tang jiang	1
+半夏止咳糖浆	ban xia zhi hai tang jiang	1
 卵磷脂片	luan lin zhi pian	1
 栀子苷	zhi zi gan	1
 归脾颗粒	gui pi ke li	1
@@ -18573,7 +18573,7 @@ sort: by_weight
 毛母质瘤	mao mu zhi liu	1
 五氟利多	wu fu li duo	1
 八味和胃口服液	ba wei he wei kou fu ye	1
-百咳静糖浆	bai ke jing tang jiang	1
+百咳静糖浆	bai hai jing tang jiang	1
 秃发性毛囊炎	tu fa xing mao nang yan	1
 培哚普利吲达帕胺片	pei duo pu li yin da pa an pian	1
 石吊兰	shi diao lan	1
@@ -18688,7 +18688,7 @@ sort: by_weight
 氨酚双氢可待因片	an fen shuang qing ke dai yin pian	1
 鼻中隔成形术	bi zhong ge cheng xing shu	1
 嘌呤霉素	piao ling mei su	1
-复方地茯口服液	fu fang di fu kou fu ye	1
+复方地茯口服液	fu fang de fu kou fu ye	1
 高血压性脑病	gao xue ya xing nao bing	1
 雾化吸入剂	wu hua xi ru ji	1
 流浸膏剂	liu jin gao ji	1
@@ -18703,7 +18703,7 @@ sort: by_weight
 清热化湿口服液	qing re hua shi kou fu ye	1
 参芪健胃颗粒	can qi jian wei ke li	1
 胰胀	yi zhang	1
-地氯雷他定片	di lv lei ta ding pian	1
+地氯雷他定片	de lv lei ta ding pian	1
 踝关节融合术	huai guan jie rong he shu	1
 石榴健胃散	shi liu jian wei san	1
 抗贫血药	kang pin xue yao	1
